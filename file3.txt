@@ -1,1 +1,2 @@
  Contents on file 3
+Paul add more things in other file
